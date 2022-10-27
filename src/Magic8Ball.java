@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class Magic8Ball
-{
-    public static void main(String[] args)
-    {
+public class Magic8Ball {
+    public static void main(String[] args) {
 //        // Tell the user to enter a question
 //        Scanner scan = new Scanner(System.in);
 //        System.out.println("Welcome to the Magic 8 Ball!");
@@ -60,4 +58,6 @@ public class Magic8Ball
 
     }
 }
+
+
 
